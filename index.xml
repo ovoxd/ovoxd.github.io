@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FTLx</title>
+    <link>https://ftlx.me/</link>
+    <description>Recent content on FTLx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2020 23:56:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://ftlx.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1st Post</title>
+      <link>https://ftlx.me/post/1st-post/</link>
+      <pubDate>Wed, 11 Mar 2020 23:56:37 +0800</pubDate>
+      
+      <guid>https://ftlx.me/post/1st-post/</guid>
+      <description>Hello hugo! </description>
+    </item>
+    
+  </channel>
+</rss>
